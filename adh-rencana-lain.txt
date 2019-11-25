@@ -3,3 +3,4 @@ RENCANA LAIN
 - Membuat startup
 - Mengambil kelas premium BWA
   *Web Developer
+- Mempelajari struktur data
