@@ -3,4 +3,7 @@ RENCANA LAIN
 - Membuat startup
 - Mengambil kelas premium BWA
   *Web Developer
-- Belajar Javascript dan frameworknya (Angular,react)
+- Mempelajari struktur data
+- Belajar Javascript dan frameworknya (Vue, react)
+- Belajar Python
+
