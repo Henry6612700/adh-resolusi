@@ -6,3 +6,4 @@ RENCANA LAIN
 - Mempelajari struktur data
 - Belajar Javascript dan frameworknya (Vue, react)
 - Belajar Python
+
