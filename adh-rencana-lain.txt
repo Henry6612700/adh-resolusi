@@ -4,3 +4,5 @@ RENCANA LAIN
 - Mengambil kelas premium BWA
   *Web Developer
 - Mempelajari struktur data
+- Belajar Javascript dan frameworknya
+- Belajar Python
